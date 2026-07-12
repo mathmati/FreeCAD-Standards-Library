@@ -253,4 +253,8 @@ on those PRs being accepted.
 Issues and pull requests are welcome. Please
 cross-check any new/changed material property against **at least two
 independent sources** and record the citation, matching this project's
-own practice, and disclose any AI assistance in your PR description with
+own practice, and disclose any AI assistance in your PR description.
+
+## Transparency
+
+Built with [Claude Code](https://claude.com/claude-code).
